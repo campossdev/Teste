@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: calc(100vh - 100px);
+    width: calc((30vw + 80px) / 2 + 100px);
+    background-color: red;
+}
